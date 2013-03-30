@@ -9,7 +9,7 @@
            sync-j="4" />
 
   <project path="build" name="broodplank/abp_build" >
-   <copyfile src="build/compile.sh" dest="compile.sh" />
+   <copyfile src="compile.sh" dest="../compile.sh" />
   </project> 
   <project path="apps" name="broodplank/abp_apps" />
   <project path="boot/ancora" name="broodplank/abp_boot_ancora" />
