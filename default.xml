@@ -11,11 +11,10 @@
   <project path="build" name="broodplank/abp_build" >
    <copyfile src="build/compile.sh" dest="compile.sh" />
   </project> 
-  <project path="apps" name="broodplank/abp_apps" >
-  <project path="boot/ancora" name="broodplank/abp_boot_ancora" >
-  <project path="boot/ariesve" name="broodplank/abp_boot_ariesve" >
-  <project path="device/common" name="broodplank/abp_device_common" >
-  <project path="device/samsung/ancora" name="broodplank/abp_device_ancora" >
-  <project path="device/samsung/ariesve" name="broodplank/abp_device_ariesve" >
-
+  <project path="apps" name="broodplank/abp_apps" />
+  <project path="boot/ancora" name="broodplank/abp_boot_ancora" />
+  <project path="boot/ariesve" name="broodplank/abp_boot_ariesve" />
+  <project path="device/common" name="broodplank/abp_device_common" />
+  <project path="device/samsung/ancora" name="broodplank/abp_device_ancora" />
+  <project path="device/samsung/ariesve" name="broodplank/abp_device_ariesve" />
 </manifest>
